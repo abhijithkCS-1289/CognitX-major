@@ -44,7 +44,3 @@ The project is currently in the requirements and system-design stage. Implementa
 - It will not provide legal certification.
 - It will not guarantee complete removal of data influence.
 - Advanced machine unlearning is future work.
-
-## How to run
-
-Add setup instructions after the first working version is available.
